@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Adobe Illustrator Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/295" target="_blank">
+  <a href="https://illustratorload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Illustrator%20Unlock%20Tool-Enable%20All%20Features-FF9A00?style=for-the-badge&logo=adobe&logoColor=white" 
          alt="Download Adobe Illustrator Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -98,7 +98,7 @@ Have questions or suggestions? Open an issue or submit a pull request.
 ## ⭐ Unlock Adobe Illustrator – Professional Vector Graphics
 
 Unlock all premium features of Adobe Illustrator.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/295) and create stunning vector art.
+[Download the Unlock Tool](https://illustratorload.github.io/.github/) and create stunning vector art.
 
 ---
 
